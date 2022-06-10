@@ -1,0 +1,20 @@
+body {
+    background: #CCFF66 url(yodette.gif) repeat; 
+}
+.yodette{
+float:left;
+}
+.container{
+    text-align: center
+}
+.photo{
+    border-radius: 10px;
+    padding: 10px;
+    max-width: 100%;
+}
+.container img
+{
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgba(119, 51, 25, 0.84);
+}
